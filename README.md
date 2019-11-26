@@ -1,3 +1,10 @@
 # BackendWeb
 
-Backend RESTful web service made with the help of Spring and Apache Tomcat to keep track of items from the server side.
+## Overview
+BackendWeb is a back-end RESTful web service for handling data from the server side.  
+
+## Tools used
+* Java
+* Spring
+* Apache Tomcat
+
